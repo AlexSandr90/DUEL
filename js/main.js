@@ -27,7 +27,6 @@ function startChance(min, max) {
     return random;
 };
 
-
 function chanceHitting(steps) {
     let stepLeft = steps;
     let stepCount = 0;
